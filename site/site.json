@@ -1,0 +1,14 @@
+{
+  "title": "AI Safety Coverage Maps",
+  "desc": "Public field maps of what AI safety research has and has not covered.",
+  "files": {
+    "maps/ai_control.json": "site/maps/ai_control.json",
+    "edges/ai_control.json": "site/edges/ai_control.json",
+    "maps/refusal_geometry.json": "site/maps/refusal_geometry.json",
+    "edges/refusal_geometry.json": "site/edges/refusal_geometry.json",
+    "maps/scheming.json": "site/maps/scheming.json",
+    "edges/scheming.json": "site/edges/scheming.json",
+    "maps/vcrc.json": "site/maps/vcrc.json",
+    "edges/vcrc.json": "site/edges/vcrc.json"
+  }
+}
