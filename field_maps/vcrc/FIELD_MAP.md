@@ -1,6 +1,6 @@
 # FIELD_MAP: Validity, Conceptual Robustness and Confounding
 
-> Field-map tensor of the area "VCRC".
+> Field-map tensor of the area "VCRC". Methodology: .cursor/skills/build-field-map/FIELD_MAP_PLAYBOOK.md.
 > The map carries only facts about the area (what a paper showed, which question it
 > closes, where future-work points). No "where should WE dig" recommendations.
 > English only. The `fieldmap-*` blocks below are the machine-readable source of
